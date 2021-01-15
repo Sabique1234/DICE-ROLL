@@ -1,2 +1,5 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+DICE ROLL :) 
+
+PLAY IT HERE :-
+https://sabique1234.github.io/DICE-ROLL/  
+
